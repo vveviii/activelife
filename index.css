@@ -1,0 +1,116 @@
+* {
+  background-color: #FDF4D2;
+}
+
+h3 {
+  font-family: Verdana;
+  font-size: 65px;
+  color: #FFBE33;
+  text-align: center;
+}
+
+
+.top {
+  margin-top: -65px;
+}
+
+
+.line {
+  margin-left: 375px;
+  margin-top: -100px;
+}
+
+nav {
+  font-family: Verdana;
+  color: black;
+  float: none;
+  text-align: center;
+  margin-top: -50px;
+}
+
+.navb a {
+  display: block;
+  padding: 14px 20px;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+  float: none;
+  display: inline-block;
+  margin: 20px;
+}
+
+.navb a:hover {
+  color: #ECA71A;
+}
+
+.casa {
+  align-items: center;
+  margin: 50px;
+  margin-left: 400px;
+  margin-right:400px;
+}
+
+
+.pic {
+  margin-left: 350px;
+}
+
+
+.Head {
+  font-family: Helvetica;
+  font-size: 29px;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.Body {
+  font-family: Verdana;
+  font-size: 18px;
+  color: black;
+  text-align: center;
+}
+
+
+.vid {
+  margin-left: 425px;
+}
+
+.vid2 {
+  margin-left: 425px;
+}
+
+.form {
+  text-align: center;
+}
+
+
+.foot {
+  text-align: center;
+}
+
+.foot a {
+  display: block;
+  font-family: Verdana;
+  padding: 14px 16px;
+  color: black;
+  text-decoration: none;
+  float: none;
+  text-align: center;
+  background-color: #FFCE42;
+}
+
+.foot a:hover {
+  background-color: #FFBE42;
+}
+
+.end {
+  font-size: 14px;
+  text-align: center;
+  background-color: #FFCE42;
+}
+
+.bottom {
+  background-color: #FFCE42;
+}
